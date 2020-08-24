@@ -1,4 +1,4 @@
-# LeaderSTeM--AN-LSTM-BASED-MODEL-FOR-MUSICAL-ENSEMBLE-SYNCHRONIZATION
+# LeaderSTeM-A LSTM model for dynamic leaderidentification within musical streams
 
 PREPARING DATASET
 ------

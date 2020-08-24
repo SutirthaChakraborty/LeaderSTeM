@@ -1,4 +1,4 @@
-# LeaderSTeM-A LSTM model for dynamic leaderidentification within musical streams
+# LeaderSTeM-A LSTM model for dynamic leader identification within musical streams
 
 PREPARING DATASET
 ------

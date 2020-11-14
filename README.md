@@ -34,3 +34,7 @@ Ray Tuner was used to find the optimal model. [3]
 [1] Rafii, Zafar, et al. "MUSDB18-a corpus for music separation." (2017).
 [2] https://aubio.org/
 [3] https://docs.ray.io/en/master/tune.html
+
+Presentation 
+--------------
+https://www.youtube.com/watch?v=TOC4cn7jOGA&ab_channel=AIMusicCreativity2020
